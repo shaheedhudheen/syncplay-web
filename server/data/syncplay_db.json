@@ -1,0 +1,1156 @@
+{
+  "rooms": {
+    "snuggle-stream-169": {
+      "id": "snuggle-stream-169",
+      "name": "Snuggle Stream 169",
+      "createdAt": 1790916880069,
+      "currentVideo": null,
+      "playback": {
+        "state": "paused",
+        "currentTime": 0,
+        "playbackRate": 1,
+        "lastUpdated": 1790916880069,
+        "updatedBy": "System"
+      },
+      "queue": [],
+      "chatMessages": [
+        {
+          "id": "msg_welcome_1790916880069",
+          "userId": "system",
+          "userName": "SyncPlay Bot",
+          "userAvatar": "🍿",
+          "text": "Welcome to your cozy watch room! Paste a video link or search to start watching together.",
+          "timestamp": 1790916880070,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790916880217_ni9z",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790916880217,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790916962533_6h6b",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790916962533,
+          "isSystem": true
+        }
+      ],
+      "users": {},
+      "history": []
+    },
+    "fdfsd": {
+      "id": "fdfsd",
+      "name": "FDFSD",
+      "createdAt": 1790916967313,
+      "currentVideo": null,
+      "playback": {
+        "state": "paused",
+        "currentTime": 0,
+        "playbackRate": 1,
+        "lastUpdated": 1790916967313,
+        "updatedBy": "System"
+      },
+      "queue": [],
+      "chatMessages": [
+        {
+          "id": "msg_welcome_1790916967313",
+          "userId": "system",
+          "userName": "SyncPlay Bot",
+          "userAvatar": "🍿",
+          "text": "Welcome to your cozy watch room! Paste a video link or search to start watching together.",
+          "timestamp": 1790916967313,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790916967315_09x2",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790916967315,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790916974104_jxz8",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790916974104,
+          "isSystem": true
+        }
+      ],
+      "users": {},
+      "history": []
+    },
+    "ahammed": {
+      "id": "ahammed",
+      "name": "Ahammed",
+      "createdAt": 1790917074511,
+      "currentVideo": {
+        "id": "vid_1790917138862_9msn1",
+        "url": "https://www.youtube.com/watch?v=1H20xp8Brnc",
+        "source": "youtube",
+        "videoId": "1H20xp8Brnc",
+        "title": "I Have Strong Feelings About Air Conditioning in the Tech House",
+        "thumbnail": "https://img.youtube.com/vi/1H20xp8Brnc/hqdefault.jpg",
+        "channelTitle": "Linus Tech Tips",
+        "addedBy": "Cozy Viewer",
+        "addedAt": 1790917138862
+      },
+      "playback": {
+        "state": "playing",
+        "currentTime": 32.90521195994568,
+        "playbackRate": 1,
+        "lastUpdated": 1790917326781,
+        "updatedBy": "Cozy Viewer"
+      },
+      "queue": [],
+      "chatMessages": [
+        {
+          "id": "msg_welcome_1790917074511",
+          "userId": "system",
+          "userName": "SyncPlay Bot",
+          "userAvatar": "🍿",
+          "text": "Welcome to your cozy watch room! Paste a video link or search to start watching together.",
+          "timestamp": 1790917074511,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917074514_xavl",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790917074514,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917092342_otld",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790917092342,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917138864_u4vu",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "🎬",
+          "text": "Cozy Viewer started playing \"I Have Strong Feelings About Air Conditioning in the Tech House\"",
+          "timestamp": 1790917138864,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917149809_rlz4",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏱️",
+          "text": "Ahammed paused at 0:04",
+          "timestamp": 1790917149809,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917178301_b893",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏱️",
+          "text": "Cozy Viewer paused at 7:10",
+          "timestamp": 1790917178301,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917209822_fmfx",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏱️",
+          "text": "Ahammed paused at 9:18",
+          "timestamp": 1790917209822,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917278384_ed4w",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏱️",
+          "text": "Cozy Viewer paused at 0:32",
+          "timestamp": 1790917278384,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917320711_hak3",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790917320711,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917321165_k66x",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790917321165,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917355907_1e3h",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790917355907,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917375642_m7o3",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790917375642,
+          "isSystem": true
+        }
+      ],
+      "users": {},
+      "history": [
+        {
+          "id": "hist_1790917138862",
+          "video": {
+            "id": "vid_1790917138862_9msn1",
+            "url": "https://www.youtube.com/watch?v=1H20xp8Brnc",
+            "source": "youtube",
+            "videoId": "1H20xp8Brnc",
+            "title": "I Have Strong Feelings About Air Conditioning in the Tech House",
+            "thumbnail": "https://img.youtube.com/vi/1H20xp8Brnc/hqdefault.jpg",
+            "channelTitle": "Linus Tech Tips",
+            "addedBy": "Cozy Viewer",
+            "addedAt": 1790917138862
+          },
+          "watchedAt": 1790917138862
+        }
+      ]
+    },
+    "late-night-lounge": {
+      "id": "late-night-lounge",
+      "name": "Late Night Lounge",
+      "createdAt": 1790917364341,
+      "currentVideo": {
+        "id": "vid_1790919155367_i6xeh",
+        "url": "https://www.youtube.com/watch?v=Yla5i5tzXKE",
+        "source": "youtube",
+        "videoId": "Yla5i5tzXKE",
+        "title": "An Epic Journey Around The Milky Way | Space Documentary 2024",
+        "thumbnail": "https://img.youtube.com/vi/Yla5i5tzXKE/hqdefault.jpg",
+        "channelTitle": "Actual Space",
+        "addedBy": "Cozy Viewer",
+        "addedAt": 1790919155367
+      },
+      "playback": {
+        "state": "paused",
+        "currentTime": 3479.33921,
+        "playbackRate": 1,
+        "lastUpdated": 1790922565054,
+        "updatedBy": "Ahammed"
+      },
+      "queue": [],
+      "chatMessages": [
+        {
+          "id": "msg_1790919426376_5pd6",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏭️",
+          "text": "Cozy Viewer skipped to \"BigBuckBunny.mp4\"",
+          "timestamp": 1790919426376,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919443294_idhl",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏭️",
+          "text": "Cozy Viewer skipped to \"An Epic Journey Around The Milky Way | Space Documentary 2024\"",
+          "timestamp": 1790919443294,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919552219_zzl4",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790919552219,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919552387_v4lt",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790919552387,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919586103_t42a",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790919586103,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919586254_wos3",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790919586254,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919586321_hh8f",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790919586321,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919586439_i27m",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790919586439,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919606319_usjn",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790919606319,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919606695_go7i",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790919606695,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919734792_rn8c",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790919734792,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919738953_rv0s",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790919738953,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919759167_zs8a",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790919759167,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919759395_trmc",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790919759395,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790919830516_l0t0",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790919830516,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790920035527_g9vh",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790920035527,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790920041945_htuh",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790920041945,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790920042705_t4g5",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790920042705,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921016701_wjhg",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790921016701,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921018652_xtkm",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790921018652,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921018988_bio1",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790921018988,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921272372_v6ce",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790921272372,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921272942_x9io",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790921272943,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921592451_m5iy",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "text": "andi",
+          "timestamp": 1790921592451,
+          "isSystem": false
+        },
+        {
+          "id": "msg_1790921604967_zzyq",
+          "userId": "user_1790917085196_u6l0g",
+          "userName": "Cozy Viewer",
+          "userAvatar": "🐱",
+          "text": "kundi",
+          "timestamp": 1790921604967,
+          "isSystem": false
+        },
+        {
+          "id": "msg_1790921612181_z2pk",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790921612182,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921612256_710o",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790921612256,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921626395_z29q",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790921626395,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790921626403_6njm",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790921626403,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922044709_7ics",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790922044709,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922045640_8klk",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790922045640,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922053763_dgug",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790922053763,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922054640_6uia",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790922054640,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922066655_fo65",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790922066655,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922068184_rtjf",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790922068184,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922089653_3ba0",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790922089653,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922090306_iofx",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790922090306,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922124573_j94k",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790922124573,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922124831_ry7i",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790922124831,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922137875_4xaf",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790922137875,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922138738_6q0e",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790922138738,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922319801_5tpg",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790922319802,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922319860_gjbm",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790922319860,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922348774_dc7f",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed left the room",
+          "timestamp": 1790922348774,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922368675_33xa",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Ahammed joined the room",
+          "timestamp": 1790922368675,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790922400361_zzye",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "text": "test",
+          "timestamp": 1790922400361,
+          "isSystem": false
+        },
+        {
+          "id": "msg_1790922406207_83lg",
+          "userId": "user_1790917085196_u6l0g",
+          "userName": "Cozy Viewer",
+          "userAvatar": "🐱",
+          "text": "kundi",
+          "timestamp": 1790922406207,
+          "isSystem": false
+        }
+      ],
+      "users": {
+        "6R1wVUhIC0uwYlX5AAAE": {
+          "socketId": "6R1wVUhIC0uwYlX5AAAE",
+          "userId": "user_1790917085196_u6l0g",
+          "name": "Cozy Viewer",
+          "avatar": "🐱",
+          "joinedAt": 1790922319858
+        },
+        "GN4QPMM8GtRzDmX9AAAF": {
+          "socketId": "GN4QPMM8GtRzDmX9AAAF",
+          "userId": "user_1790867656810_ie7c7",
+          "name": "Ahammed",
+          "avatar": "🐻",
+          "joinedAt": 1790922368671
+        }
+      },
+      "history": [
+        {
+          "id": "hist_1790919443293",
+          "video": {
+            "id": "vid_1790919155367_i6xeh",
+            "url": "https://www.youtube.com/watch?v=Yla5i5tzXKE",
+            "source": "youtube",
+            "videoId": "Yla5i5tzXKE",
+            "title": "An Epic Journey Around The Milky Way | Space Documentary 2024",
+            "thumbnail": "https://img.youtube.com/vi/Yla5i5tzXKE/hqdefault.jpg",
+            "channelTitle": "Actual Space",
+            "addedBy": "Cozy Viewer",
+            "addedAt": 1790919155367
+          },
+          "watchedAt": 1790919443293
+        },
+        {
+          "id": "hist_1790919426375",
+          "video": {
+            "id": "vid_1790919140875_l9w86",
+            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "source": "direct",
+            "title": "BigBuckBunny.mp4",
+            "thumbnail": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400&auto=format&fit=crop&q=60",
+            "addedBy": "Cozy Viewer",
+            "addedAt": 1790919140875
+          },
+          "watchedAt": 1790919426375
+        },
+        {
+          "id": "hist_1790919179254",
+          "video": {
+            "id": "vid_1790919136241_gtqn8",
+            "url": "https://www.youtube.com/watch?v=L_LUpnjgPso",
+            "source": "youtube",
+            "videoId": "L_LUpnjgPso",
+            "title": "Fireplace Ambience – Cozy Fire for Relaxation & Background Viewing",
+            "thumbnail": "https://img.youtube.com/vi/L_LUpnjgPso/hqdefault.jpg",
+            "channelTitle": "Fireplace Atmosphere",
+            "addedBy": "Cozy Viewer",
+            "addedAt": 1790919136241
+          },
+          "watchedAt": 1790919179254
+        },
+        {
+          "id": "hist_1790919166489",
+          "video": {
+            "id": "vid_1790919127149_i20gn",
+            "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+            "source": "youtube",
+            "videoId": "jfKfPfyJRdk",
+            "title": "lofi hip hop radio 📚 beats to relax/study to",
+            "thumbnail": "https://img.youtube.com/vi/jfKfPfyJRdk/hqdefault.jpg",
+            "channelTitle": "Lofi Girl",
+            "addedBy": "Cozy Viewer",
+            "addedAt": 1790919127149
+          },
+          "watchedAt": 1790919166489
+        },
+        {
+          "id": "hist_1790917549480",
+          "video": {
+            "id": "vid_1790917549480_c7ipg",
+            "url": "https://www.youtube.com/watch?v=8BLO5uRJqrI",
+            "source": "youtube",
+            "videoId": "8BLO5uRJqrI",
+            "title": "OPPO Find X10 Series Hands-on: The Pro Max That Rivals the Ultra",
+            "thumbnail": "https://img.youtube.com/vi/8BLO5uRJqrI/hqdefault.jpg",
+            "channelTitle": "gizmochina",
+            "addedBy": "Ahammed",
+            "addedAt": 1790917549480
+          },
+          "watchedAt": 1790917549480
+        }
+      ],
+      "activityLog": [
+        {
+          "id": "act_1790922373469_2fx1z",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "play",
+          "timeStr": "55:29",
+          "text": "Ahammed resumed playback",
+          "timestamp": 1790922373469
+        },
+        {
+          "id": "act_1790922374888_rc0rq",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "pause",
+          "timeStr": "55:30",
+          "text": "Ahammed paused at 55:30",
+          "timestamp": 1790922374888
+        },
+        {
+          "id": "act_1790922450351_tjsyy",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "play",
+          "timeStr": "55:30",
+          "text": "Ahammed resumed playback",
+          "timestamp": 1790922450351
+        },
+        {
+          "id": "act_1790922450792_q8ilp",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "55:41",
+          "text": "Ahammed jumped to 55:41",
+          "timestamp": 1790922450792
+        },
+        {
+          "id": "act_1790922453639_o8ztf",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "56:02",
+          "text": "Ahammed jumped to 56:02",
+          "timestamp": 1790922453639
+        },
+        {
+          "id": "act_1790922456808_f4gzr",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "56:12",
+          "text": "Ahammed jumped to 56:12",
+          "timestamp": 1790922456808
+        },
+        {
+          "id": "act_1790922459326_k68o8",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "pause",
+          "timeStr": "56:15",
+          "text": "Ahammed paused at 56:15",
+          "timestamp": 1790922459326
+        },
+        {
+          "id": "act_1790922461043_nu109",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "play",
+          "timeStr": "56:15",
+          "text": "Ahammed resumed playback",
+          "timestamp": 1790922461043
+        },
+        {
+          "id": "act_1790922461270_ogmoy",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "56:25",
+          "text": "Ahammed jumped to 56:25",
+          "timestamp": 1790922461270
+        },
+        {
+          "id": "act_1790922466151_o1u4j",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "56:58",
+          "text": "Ahammed jumped to 56:58",
+          "timestamp": 1790922466151
+        },
+        {
+          "id": "act_1790922470296_4efbe",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "57:20",
+          "text": "Ahammed jumped to 57:20",
+          "timestamp": 1790922470296
+        },
+        {
+          "id": "act_1790922474307_id78q",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "pause",
+          "timeStr": "57:23",
+          "text": "Ahammed paused at 57:23",
+          "timestamp": 1790922474307
+        },
+        {
+          "id": "act_1790922475718_yerst",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "play",
+          "timeStr": "57:23",
+          "text": "Ahammed resumed playback",
+          "timestamp": 1790922475718
+        },
+        {
+          "id": "act_1790922476594_2b8h5",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "pause",
+          "timeStr": "57:24",
+          "text": "Ahammed paused at 57:24",
+          "timestamp": 1790922476594
+        },
+        {
+          "id": "act_1790922481164_i94st",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "play",
+          "timeStr": "57:24",
+          "text": "Ahammed resumed playback",
+          "timestamp": 1790922481164
+        },
+        {
+          "id": "act_1790922483500_ng66s",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "pause",
+          "timeStr": "57:26",
+          "text": "Ahammed paused at 57:26",
+          "timestamp": 1790922483500
+        },
+        {
+          "id": "act_1790922497132_r9xbw",
+          "userId": "user_1790917085196_u6l0g",
+          "userName": "Cozy Viewer",
+          "userAvatar": "🐱",
+          "action": "seek",
+          "timeStr": "57:37",
+          "text": "Cozy Viewer jumped to 57:37",
+          "timestamp": 1790922497132
+        },
+        {
+          "id": "act_1790922499032_n3vzq",
+          "userId": "user_1790917085196_u6l0g",
+          "userName": "Cozy Viewer",
+          "userAvatar": "🐱",
+          "action": "seek",
+          "timeStr": "57:47",
+          "text": "Cozy Viewer jumped to 57:47",
+          "timestamp": 1790922499032
+        },
+        {
+          "id": "act_1790922504640_gfp1w",
+          "userId": "user_1790917085196_u6l0g",
+          "userName": "Cozy Viewer",
+          "userAvatar": "🐱",
+          "action": "seek",
+          "timeStr": "57:37",
+          "text": "Cozy Viewer jumped to 57:37",
+          "timestamp": 1790922504640
+        },
+        {
+          "id": "act_1790922512939_itc0c",
+          "userId": "user_1790917085196_u6l0g",
+          "userName": "Cozy Viewer",
+          "userAvatar": "🐱",
+          "action": "seek",
+          "timeStr": "57:27",
+          "text": "Cozy Viewer jumped to 57:27",
+          "timestamp": 1790922512939
+        },
+        {
+          "id": "act_1790922550730_yqtly",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "play",
+          "timeStr": "57:27",
+          "text": "Ahammed resumed playback",
+          "timestamp": 1790922550730
+        },
+        {
+          "id": "act_1790922558477_d3p8q",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "57:44",
+          "text": "Ahammed jumped to 57:44",
+          "timestamp": 1790922558477
+        },
+        {
+          "id": "act_1790922562263_nw5dw",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "seek",
+          "timeStr": "57:56",
+          "text": "Ahammed jumped to 57:56",
+          "timestamp": 1790922562263
+        },
+        {
+          "id": "act_1790922565055_36o8s",
+          "userId": "user_1790867656810_ie7c7",
+          "userName": "Ahammed",
+          "userAvatar": "🐻",
+          "action": "pause",
+          "timeStr": "57:59",
+          "text": "Ahammed paused at 57:59",
+          "timestamp": 1790922565055
+        }
+      ]
+    },
+    "httplocalhost5173roomlate-night-lounge": {
+      "id": "httplocalhost5173roomlate-night-lounge",
+      "name": "http://localhost:5173/room/late-night-lounge",
+      "createdAt": 1790917383252,
+      "currentVideo": null,
+      "playback": {
+        "state": "paused",
+        "currentTime": 0,
+        "playbackRate": 1,
+        "lastUpdated": 1790917383252,
+        "updatedBy": "System"
+      },
+      "queue": [],
+      "chatMessages": [
+        {
+          "id": "msg_welcome_1790917383252",
+          "userId": "system",
+          "userName": "SyncPlay Bot",
+          "userAvatar": "🍿",
+          "text": "Welcome to your cozy watch room! Paste a video link or search to start watching together.",
+          "timestamp": 1790917383252,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917383253_hrw0",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer joined the room",
+          "timestamp": 1790917383253,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790917388357_kwrs",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Cozy Viewer left the room",
+          "timestamp": 1790917388357,
+          "isSystem": true
+        }
+      ],
+      "users": {},
+      "history": []
+    },
+    "test-sync-room": {
+      "id": "test-sync-room",
+      "name": "Test Sync Room",
+      "createdAt": 1790918912810,
+      "currentVideo": null,
+      "playback": {
+        "state": "paused",
+        "currentTime": 55,
+        "playbackRate": 1,
+        "lastUpdated": 1790918914650,
+        "updatedBy": "Alice"
+      },
+      "queue": [],
+      "chatMessages": [
+        {
+          "id": "msg_welcome_1790918912810",
+          "userId": "system",
+          "userName": "SyncPlay Bot",
+          "userAvatar": "🍿",
+          "text": "Welcome to your cozy watch room! Paste a video link or search to start watching together.",
+          "timestamp": 1790918912810,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790918912812_z7qu",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Alice joined the room",
+          "timestamp": 1790918912812,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790918912830_0ot7",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Bob joined the room",
+          "timestamp": 1790918912830,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790918913430_byje",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏱️",
+          "text": "Alice jumped to 0:45",
+          "timestamp": 1790918913430,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790918914651_rz0o",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "⏱️",
+          "text": "Alice paused at 0:55",
+          "timestamp": 1790918914651,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790918915267_n3zh",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Alice left the room",
+          "timestamp": 1790918915267,
+          "isSystem": true
+        },
+        {
+          "id": "msg_1790918915270_mdny",
+          "userId": "system",
+          "userName": "SyncPlay",
+          "userAvatar": "👋",
+          "text": "Bob left the room",
+          "timestamp": 1790918915270,
+          "isSystem": true
+        }
+      ],
+      "users": {},
+      "history": []
+    }
+  },
+  "playlists": [],
+  "globalHistory": []
+}
